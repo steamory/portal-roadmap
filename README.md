@@ -27,7 +27,7 @@ Why you'll love Portal:
 
 # 2020 Priorities
 
-The most important thing in 2020 is to **ensure that the portal is available before 2020 ends.**
+The most important thing in 2020 is to **ensure that the portal is available before 2020 ends🗽.**
 
 ## How to define available
 

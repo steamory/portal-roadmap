@@ -1,6 +1,6 @@
 # Portal Project Roadmap
 
-Portal Project Roadmaps Repo
+Portal Project Roadmaps Repo.
 
 # One Small Step for the Web
 
@@ -14,9 +14,9 @@ Portal Project Roadmaps Repo
 
 Portal aims to:
 
-1. Ensure that everyone can easily use the energy provided by SoLiD through the best user experience.
-1. Make technology that promotes individual rights more accessible to the general public
-1. help drive this next stage of the web. It’s impossible to predict the changes this will evoke - it’ll be a long and exciting journey, into an unclear but certain future.
+1. Ensure that everyone can easily use the power provided by SoLiD through the best user experience.
+1. Make technology that promotes individual rights more accessible to the general public.
+1. Help drive the next stage of the web - restore rightful ownership of data back to everyone.
 
 Why you'll love Portal:
 
@@ -32,3 +32,7 @@ Under Construction.
 # 2020+ Goals
 
 Under Construction.
+
+# Join Us
+
+Email to xieyang@dodora.cn to join us !

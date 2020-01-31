@@ -74,9 +74,9 @@ With Portal, everything users do is finally in one place and can be just as uniq
 
 Portal Templates is the way people manage their data, If a user has a good template to manage their data, it can share it with anyone.
 
-## Q4: Website
+## Q4: 🔭 Website
 
-> 
+> Our home to announce something excited.
 
 # Join Us
 

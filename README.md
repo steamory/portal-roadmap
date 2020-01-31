@@ -54,16 +54,29 @@ Portal's user interface will be very flexible, it will allow users to manage all
 
 Login with WebID to use Solid. Similar to email, WebID allows users to connect to anyone else no matter who their identity provider is. When users login with WebID, users and only users and where users are signing into knows about it.
 
-## Q2: 
+## Q2: 🗄 Unstructured data manager
 
-## Q2: 
+> Users can manage unstructured data such as music, file, photos, documents and so on.
 
-## Q3: 
+Users' Pod is where users store their data. Pods and apps are always separate and compatible meaning you are free to pick and choose and change users mind while still keeping users' data. For example, if you want to switch messaging app you can take users contacts and chat history along easily.
 
-## Q3:
+## Q3: 📖 Flexible user interface infrastructure
 
-## Q4: 
+> A flexible, real-time user interface infrastructure allows users to manage any data.
 
+No more ping-ponging between niche workflow apps to get things done. Portal brings all of your words and data into one flexible surface.
+
+With Portal, everything users do is finally in one place and can be just as unique as they are.
+
+## Q4: Portal Templates
+
+> Turn users' real-life into portal templates.
+
+Portal Templates is the way people manage their data, If a user has a good template to manage their data, it can share it with anyone.
+
+## Q4: Website
+
+> 
 
 # Join Us
 

@@ -36,11 +36,17 @@ The most important thing in 2020 is to **ensure that the portal is available bef
 
 # 2020+ Goals
 
-## Q1: PRD
+## Q1: 🗞 PRD
 
 > Comprehensive Product Requirements Documentation to help teams understand the vision and guide developers to turn concepts into reality.
 
 PRD is the foundation. PRD needs to clearly explain the vision, positioning, goals, detailed user interface design diagrams, user operation flowcharts, and risk countermeasures.
+
+## Q1: 🔗 Powerful Front-end architecture
+
+> A powerful front-end architecture is used to support complex business processes, allowing developers to extend any feature without restrictions.
+
+Portal's user interface will be very flexible, it will allow users to manage all personal data by writing documents like a sketchpad.
 
 # Join Us
 

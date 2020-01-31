@@ -68,7 +68,7 @@ No more ping-ponging between niche workflow apps to get things done. Portal brin
 
 With Portal, everything users do is finally in one place and can be just as unique as they are.
 
-## Q4: Portal Templates
+## Q4: 💎 Portal Templates
 
 > Turn users' real-life into portal templates.
 

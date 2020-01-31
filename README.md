@@ -58,7 +58,7 @@ Login with WebID to use Solid. Similar to email, WebID allows users to connect t
 
 > Users can manage unstructured data such as music, file, photos, documents and so on.
 
-Users' Pod is where users store their data. Pods and apps are always separate and compatible meaning you are free to pick and choose and change users mind while still keeping users' data. For example, if you want to switch messaging app you can take users contacts and chat history along easily.
+Users' Pod is where users store their data. Pods and apps are always separate and compatible meaning users are free to pick and choose and change users' mind while still keeping users' data. For example, if you want to switch messaging app you can take your contacts and chat history along easily.
 
 ## Q3: 📖 Flexible user interface infrastructure
 

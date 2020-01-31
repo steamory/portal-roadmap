@@ -31,7 +31,7 @@ The most important thing in 2020 is to **ensure that the portal is available bef
 
 ## How to define available
 
-1. Users don't need to know What the Fuck SoLiD is, they can easily understand what the Portal can help users do and what they can accomplish through the interface.
+1. Users don't need to know What is SoLiD, they can easily understand what the Portal can help users do and what they can accomplish through the interface.
 1. Users can have subjective satisfaction after using.
 
 # 2020+ Goals

@@ -48,6 +48,23 @@ PRD is the foundation. PRD needs to clearly explain the vision, positioning, goa
 
 Portal's user interface will be very flexible, it will allow users to manage all personal data by writing documents like a sketchpad.
 
+## Q1: 👨‍💻 User
+
+> User can login in Portal via SoLiD WebId and edit their profile.
+
+Login with WebID to use Solid. Similar to email, WebID allows users to connect to anyone else no matter who their identity provider is. When users login with WebID, users and only users and where users are signing into knows about it.
+
+## Q2: 
+
+## Q2: 
+
+## Q3: 
+
+## Q3:
+
+## Q4: 
+
+
 # Join Us
 
 Email to xieyang@dodora.cn to join us !

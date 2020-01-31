@@ -36,7 +36,11 @@ The most important thing in 2020 is to **ensure that the portal is available bef
 
 # 2020+ Goals
 
-Under Construction.
+## Q1: PRD
+
+> Comprehensive Product Requirements Documentation to help teams understand the vision and guide developers to turn concepts into reality.
+
+PRD is the foundation. PRD needs to clearly explain the vision, positioning, goals, detailed user interface design diagrams, user operation flowcharts, and risk countermeasures.
 
 # Join Us
 
